@@ -1,5 +1,5 @@
 # Var
-# E**π = (m**π)*(c**2π)
+# E^π = (m^π)*(c^2π)
 # E**lne = E, where E equals Energy
 # then setting gpt = 1, we have E**gpt = (m**gpt)*(c**2gpt)
 # But setting valis = 1 we have E**valis = E 
